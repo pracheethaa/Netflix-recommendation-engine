@@ -1,0 +1,1 @@
+Designed a content recommendation system for Netflix by examining the viewing behavior of 2,000 users across 9 TV series. Leveraged Excel to develop a correlation-based model that uncovered patterns in audience preferences, enabling more tailored suggestions and driving higher user engagement and loyalty.
